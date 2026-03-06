@@ -1,11 +1,11 @@
 {
   "student_id": "6604101329",
   "name": "นายณัฐภูมิ หลู่จิ่ง",
-  "github_repo": "https://github.com/USERNAME/REPO-NAME",
+  "github_repo": "https://github.com/Poomicon/Final-329.git",
   "backend_base_url": "https://final-329.onrender.com",
-  "frontend_url": "https://xxx.netlify.app",
+  "frontend_url": "https://myweb329.netlify.app/#/",
   "api": {
-    "health": "https://xxx.onrender.com/api/health",
-    "tasks": "https://xxx.onrender.com/api/tasks"
+    "health": "https://final-329.onrender.com/api/health",
+    "tasks": "https://final-329.onrender.com/api/tasks"
   }
 }
